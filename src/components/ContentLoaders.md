@@ -13,7 +13,7 @@
 
 &nbsp;
 
-##### How to Import Content Loader Component
+## How to Import Content Loader Component
 
 &nbsp;
 
@@ -25,7 +25,7 @@ import { LoaderContent } from '@fishtank/fishtank-vue'
 
 &nbsp;
 
-##### How to Export Content Loader Component
+## How to Export Content Loader Component
 
 &nbsp;
 
