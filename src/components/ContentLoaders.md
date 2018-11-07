@@ -9,7 +9,7 @@
     - [How to Export Content Loader Component](#how-to-export-content-loader-component)
 - [The Content Loader Component](#the-content-loader-component)
 
-#Usage
+# Usage
 
 &nbsp;
 
