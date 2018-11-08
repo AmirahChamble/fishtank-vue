@@ -10,6 +10,7 @@
 - [The Content Loader Component](#the-content-loader-component)
 
 # Usage
+See the examples below to learn how to import and export your Content Loader Component.
 
 &nbsp;
 
@@ -41,3 +42,9 @@ export default Vue.extend({
 &nbsp;
 
 # The Content Loader Component
+
+&nbsp;
+
+The Content Loader component is a fully customizable animated svg placeholder for loading content. It comes ready to use with 13 pre-made themes with changeable colors, animation speeds, heights, and widths. In addition to the pre-made themes, users have the option to fully customize their own content loader and use it to create unique svg loaders by adding their own custom shapes.
+
+&nbsp;
