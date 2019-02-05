@@ -70,5 +70,9 @@ export default new Router({
       path: '/box',
       component: () => import("./views/Box.vue")
     },
+    {
+      path: '/toasts',
+      component: () => import("./views/Toasts.vue")
+    },
   ]
 })
